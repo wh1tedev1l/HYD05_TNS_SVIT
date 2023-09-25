@@ -1,7 +1,10 @@
 # POS (Point of Sale)
 
+## Mini Project
+
 ## About
 POS (Point of Sale) is a Simple Billing Application using Java
+
 ## Installation
 - Just Clone the Repository
 - Run it using Eclipse or any Java Editor you Like
