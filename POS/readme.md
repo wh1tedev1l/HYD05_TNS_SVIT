@@ -1,6 +1,4 @@
-# POS (Point of Sale)
-
-## Mini Project
+# Mini Project - POS (Point of Sale)
 
 ## About
 POS (Point of Sale) is a Simple Billing Application using Java
